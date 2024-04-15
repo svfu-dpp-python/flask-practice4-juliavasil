@@ -3,3 +3,4 @@ Flask-Admin==1.6.1
 Flask-Migrate==4.0.4
 Flask-SQLAlchemy==3.0.3
 SQLAlchemy==1.4.*
+Werkzeug==2.2.2
